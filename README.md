@@ -4,6 +4,9 @@ Free music production software for Windows. Program beats in the step sequencer 
 arrange them in the playlist, and mix with the built-in instruments and effects. You can also
 make music with friends in real time.
 
+[Download](https://github.com/TA-Studio-App/releases/releases/latest/download/TA-Studio-Setup.exe) ·
+[Website](https://tastudio-app.netlify.app) · [Discord](https://discord.gg/vX823X3GG7)
+
 ![T&A Studio main window](main.png)
 
 ## Download
@@ -12,6 +15,11 @@ make music with friends in real time.
 (Windows 10 or 11, 64-bit)
 
 Older versions and release notes are on the [Releases page](https://github.com/TA-Studio-App/releases/releases).
+
+## Community
+
+Join the **[T&A Studio Discord](https://discord.gg/vX823X3GG7)** to get help, report bugs,
+suggest features, share your music and find people to collaborate with.
 
 ## Installing
 
