@@ -14,7 +14,8 @@ make music with friends in real time.
 **[Download the latest version](https://github.com/TA-Studio-App/releases/releases/latest/download/TA-Studio-Setup.exe)**
 (Windows 10 or 11, 64-bit)
 
-Older versions and release notes are on the [Releases page](https://github.com/TA-Studio-App/releases/releases).
+What's new in each version, and older versions, are on the
+[Releases page](https://github.com/TA-Studio-App/releases/releases).
 
 ## Community
 
@@ -32,13 +33,24 @@ suggest features, share your music and find people to collaborate with.
 
 To update, run the new installer. Your projects and settings are kept.
 
+### Checking your download
+
+Each file on the [Releases page](https://github.com/TA-Studio-App/releases/releases) shows its
+SHA-256 checksum. To compare, open Command Prompt in your Downloads folder and run:
+
+```
+certutil -hashfile TA-Studio-Setup.exe SHA256
+```
+
+If the result doesn't match, delete the file and download it again.
+
 ## What's included
 
 - Channel rack with a step sequencer, a piano roll and a playlist with audio and automation clips
 - Mixer with routing, sends, sidechain and plugin delay compensation
 - Five instruments: Analog Synth, Wavetable Synth, Sampler, Drum Sampler and Drum Machine
 - 27 effects, including parametric EQ, multiband compressor, true-peak limiter, reverb and Auto-Tune
-- VST3 instrument and effect hosting
+- VST3 instrument and effect hosting, including sidechain inputs and multi-output instruments
 - Real-time collaboration with friends over [Tailscale](https://tailscale.com)
 - Export to WAV, FLAC, OGG and MP3, with stems and a loudness report
 - A built-in beginner's guide with 17 lessons
