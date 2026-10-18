@@ -9,6 +9,12 @@ make music with friends in real time.
 
 ![T&A Studio main window](main.png)
 
+## Watch T&A Studio
+
+[![Watch T&A Studio on YouTube](https://img.youtube.com/vi/6L-YRObYUCE/hqdefault.jpg)](https://www.youtube.com/watch?v=6L-YRObYUCE)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=6L-YRObYUCE)
+
 ## Download
 
 **[Download the latest version](https://github.com/TA-Studio-App/releases/releases/latest/download/TA-Studio-Setup.exe)**
