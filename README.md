@@ -11,8 +11,6 @@ make music with friends in real time.
 
 ## Watch T&A Studio Tutorial Video
 
-[![Watch T&A Studio on YouTube](https://img.youtube.com/vi/6L-YRObYUCE/hqdefault.jpg)](https://www.youtube.com/watch?v=6L-YRObYUCE)
-
 [Watch on YouTube](https://www.youtube.com/watch?v=6L-YRObYUCE)
 
 ## Download
