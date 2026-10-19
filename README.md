@@ -5,7 +5,7 @@ arrange them in the playlist, and mix with the built-in instruments and effects.
 make music with friends in real time.
 
 [Download](https://github.com/TA-Studio-App/releases/releases/latest/download/TA-Studio-Setup.exe) ·
-[Website](https://tastudio-app.netlify.app) · [Discord](https://discord.gg/vX823X3GG7)
+[Website](https://tastudio-app.netlify.app) · [Discord](https://discord.gg/vX823X3GG7) · [Youtube](https://youtube.com/@ta-studio-apps?si=UJaUxEhG_8g_FDXh)
 
 ![T&A Studio main window](main.png)
 
