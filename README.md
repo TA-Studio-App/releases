@@ -54,6 +54,7 @@ If the result doesn't match, delete the file and download it again.
 - Mixer with routing, sends, sidechain and plugin delay compensation
 - Five instruments: Analog Synth, Wavetable Synth, Sampler, Drum Sampler and Drum Machine
 - 27 effects, including parametric EQ, multiband compressor, true-peak limiter, reverb and Auto-Tune
+- 4 note effects: arpeggiator, chord, scale and humanize
 - VST3 instrument and effect hosting, including sidechain inputs and multi-output instruments
 - Real-time collaboration with friends over [Tailscale](https://tailscale.com)
 - Export to WAV, FLAC, OGG and MP3, with stems and a loudness report
